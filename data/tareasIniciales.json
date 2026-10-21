@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "texto": "Estudiar para el parcial de Programación",
+    "completada": false
+  },
+  {
+    "id": "2",
+    "texto": "Preparar el mate para la cursada",
+    "completada": true
+  },
+  {
+    "id": "3",
+    "texto": "Revisar los estilos de React Native",
+    "completada": false
+  }
+]
